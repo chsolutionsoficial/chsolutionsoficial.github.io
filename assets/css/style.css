@@ -1805,3 +1805,7 @@ section {
     padding-top: 4px;
   }
 }
+
+.justify-text {
+  text-align: justify;
+}
